@@ -5,7 +5,7 @@ Plugin URI: http://github.com/hepaestus/nsl_wordpress_plugin
 Description: Simple Plugin Uses Nextend Social Login and Register and Enforces Specific Domain Only
 Version: 1.0
 Author: Pete Olsen III
-Author URI: http://hepaestus.com
+Author URI: http://github.com/hepaestus
 License: GPL
 */
 
