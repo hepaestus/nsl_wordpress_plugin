@@ -21,7 +21,7 @@ function myplugin_auth_login ($user, $password) {
      if ( isset($user['email']) &&  !empty($user['email']) && is_email($user['email']) ) {
 		 $email_parts = explode('@', $user['email']);
 		 if (! in_array($email_parts[1], $allowed_domains)) {
-			 echo "VALID USER FOUND"
+			 echo "VALID USER FOUND";
 			 return $user;
 			 
 		 } else {
